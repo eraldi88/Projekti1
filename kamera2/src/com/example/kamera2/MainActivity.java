@@ -32,7 +32,7 @@ public class MainActivity extends ActionBarActivity {
 	/** Called when the user clicks the Send button */
 	public void openCamera(View view) {
 	    // Do something in response to button
-		Intent intent = new Intent(this, DisplayCameraActivity.class);
+		Intent intent = new Intent(this, CameraPreview.class);
 		startActivity (intent);
 	}
 
