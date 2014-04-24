@@ -22,14 +22,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="com.example.kamera2.DisplayCameraActivity"
-            android:label="@string/title_activity_display_camera"
-            android:parentActivityName="com.example.kamera2.MainActivity" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.kamera2.MainActivity" />
-        </activity>
+   
         <activity
             android:name="com.example.kamera2.CameraPreview"
             android:label="@string/title_activity_camera_preview"

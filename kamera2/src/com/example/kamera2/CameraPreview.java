@@ -13,6 +13,8 @@ public class CameraPreview extends SurfaceView implements SurfaceHolder.Callback
     private static final String TAG = null;
 	private SurfaceHolder mHolder;
     private Camera mCamera;
+    
+    
 
     public CameraPreview(Context context, Camera camera) {
         super(context);
