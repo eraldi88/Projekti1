@@ -6,6 +6,6 @@
     <string name="hello_world">Camera App</string>
     <string name="button_camera">Camera</string>
     <string name="image_cd_camera">This is a generic content description</string>
-    <string name="title_activity_main1">MainActivity</string>
+    <string name="title_activity_main1">CameraApp</string>
 
 </resources>
