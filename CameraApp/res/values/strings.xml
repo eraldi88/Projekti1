@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">CameraApp</string>
+    <string name="action_settings">Action</string>
+    <string name="hello_world">Camera App</string>
+    <string name="button_camera">Camera</string>
+    <string name="image_cd_camera">This is a generic content description</string>
+    <string name="title_activity_main1">MainActivity</string>
+
+</resources>
